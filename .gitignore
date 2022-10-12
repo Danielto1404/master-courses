@@ -1,15 +1,7 @@
-*/.idea
-*/venv
-
-# Ignore .tsv and .csv
-*.tsv
-*.csv
+.idea/
+venv/
 
 .DS_Store
 
-# Ignore images
-*.jpg
-*.png
-
 # Ignore data files
-*/data/*
+data/
