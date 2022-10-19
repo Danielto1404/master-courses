@@ -6,6 +6,7 @@ Russian Slides – [here](slides)
 
 1. [CNN](code-examples/CNN.ipynb)
 2. [Detection](code-examples/Detection.ipynb)
+3. [Segmentation](code-examples/)
 
 **Labs:**
 

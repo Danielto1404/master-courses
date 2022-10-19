@@ -3,4 +3,4 @@ A collection of courses at Master program at Deep Learning department in ITMO Un
 
 ## Courses:
 * [AutoML](auto-ml)
-* [Computer Vision and GANs](gans)
+* [Computer Vision and GANs](cv-and-gans)
