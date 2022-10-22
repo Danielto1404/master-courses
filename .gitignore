@@ -8,3 +8,6 @@ catboost_info/
 
 # Ignore data files
 data/
+
+# Ignore models files
+models/
