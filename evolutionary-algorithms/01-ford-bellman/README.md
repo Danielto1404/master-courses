@@ -1,1 +1,1 @@
-### Implementation of naive algorithm
+### Implementation of Ford-Bellman algorithm in python
