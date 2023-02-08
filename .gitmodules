@@ -1,0 +1,3 @@
+[submodule "dl-technologies/labs/03-bert-crf/bert-crf"]
+	path = dl-technologies/labs/03-bert-crf/bert-crf
+	url = https://github.com/borisshapa/bert-crf
