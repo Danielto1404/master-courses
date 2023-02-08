@@ -2,7 +2,11 @@
 A collection of courses at Master program at Deep Learning department in ITMO University
 
 ## Courses:
-* [AutoML](auto-ml)
+* [Auto Machine Learning](auto-ml)
 * [Computer Vision and GANs](cv-and-gans)
-* [Deep Learning technologies](dl-technologies)
-* [Evolutionary algorithms](evolutionary-algorithms)
+* [Deep Learning Technologies](dl-technologies)
+* [Evolutionary Algorithms](evolutionary-algorithms)
+* [NLP](nlp)
+* [Big Data](big-data)
+* [Reinforcement Learning](reinforcement-learning)
+* [Information Theory](information-theory)
