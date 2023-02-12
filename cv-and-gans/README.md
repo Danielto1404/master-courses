@@ -1,7 +1,5 @@
 ## Computer Vision and GANs
 
-Russian Slides – [here](slides)
-
 [Code Examples](code-examples)
 
 1. [CNN](code-examples/CNN.ipynb)
