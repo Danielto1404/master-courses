@@ -17,13 +17,3 @@ Each lab folder contains condition named `condition.pdf` and solution file named
 1. [Meta-features](labs/meta-features)
 2. [Bayesian optimization](labs/bayesian-optimization)
 ___
-
-### [Papers](papers)
-
-* [Tutorial on Bayesian Optimization](papers/A%20Tutorial%20on%20Bayesian%20Optimization.pdf)
-* [Metalearning for Auto Machine Learning](papers/Metalearning_%20Applications%20to%20Automated%20Machine%20Learning%20and%20Data%20Mining.pdf)
-* [Random Search for Hyper-Parameters Optimization](papers/Random%20Search%20for%20Hyper-Parameter%20Optimization.pdf)
-* [Review of Bayesian Optimization](papers/Taking_the_Human_Out_of_the_Loop_A_Review_of_Bayesian_Optimization.pdf)
-* [The Algorithm Selection Problem Abstract Models](papers/The%20Algorithm%20Selection%20Problem%20Abstract%20Models.pdf)
-* [The Lack of a Priori Distinctions](papers/The%20Lack%20of%20A%20Priori%20Distinctions.pdf)
-* [The Supervised Learning – No Free Lunch Theorem](papers/The_Supervised_Learning_No-Free-Lunch_Theorems.pdf)
