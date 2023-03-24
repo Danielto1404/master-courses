@@ -37,7 +37,7 @@ class Word2Vec:
         return ex / ex.sum(axis=0)
 
     def train(self, training_data):
-        for i in range(0, self.epochs):
+        for i in range(self.epochs):
             for w_target, w_context in training_data:
                 y_pred, h, u = self.forward(w_target)
                 ei = np.sum([np.subtract(y_pred, word) for word in w_context], axis=0)
