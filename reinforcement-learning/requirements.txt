@@ -1,3 +1,0 @@
-torch
-gym
-gym[atari]

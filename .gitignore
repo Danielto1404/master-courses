@@ -11,3 +11,5 @@ data/
 
 # Ignore models files
 models/
+
+__pychache__
